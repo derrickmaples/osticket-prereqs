@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - install MySQL 5.5.62
   - Register PHP from within IIS then reload it
   - Install osTicket
-- Register PHP from within IIS
+- Item 4
 - Item 5
 
 
