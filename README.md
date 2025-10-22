@@ -13,7 +13,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -22,9 +22,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 3
 - Item 4
 - Item 5
-
-<img width="335" height="264" alt="image" src="https://github.com/user-attachments/assets/0d913ee7-d11f-4cd0-b4b8-8c1ee959aeda" />
-
 
 <h2>Installation Steps</h2>
 
