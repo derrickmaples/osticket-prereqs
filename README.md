@@ -34,6 +34,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - install MySQL 5.5.62
   - Register PHP from within IIS then reload it
   - Install osTicket
+  - Reload IIS again then go to sites -> Default -> osTicket
+  - In IIS click “Browse *:80” on the right
+  - Enabled the proper extensions for osTicket in IIS
 - Item 4
 - Item 5
 
