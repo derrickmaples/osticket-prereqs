@@ -18,8 +18,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create Resource Group and Virtual Machine in Azure
-- Install osTicket and all other dependencies in our Virtual Machine
-- Item 3
+- Install IIS in Windows with CGI on our Virtual Machine
+- Install osTicket and all other dependencies on our Virtual Machine
+  - Install PHP Manager for IIS
+  - Install the Rewrite Module
+  - Create the directory C:\PHP
+  - Unzip PHP 7.3.8 into the “C:\PHP” folder
+  - Install VC_redist.x86.exe
+  - install MySQL 5.5.62
 - Item 4
 - Item 5
 
