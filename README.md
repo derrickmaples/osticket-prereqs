@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![osTicketImage](https://github.com/user-attachments/assets/4288550c-e3df-4f74-b292-eb7aa85c8e28)
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
@@ -21,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Virtual Machine
 - osTicket and all other dependencies
 
-<h2>Installation Steps</h2>
+<h3>Installation Steps</h3>
 
 - Create Resource Group and Virtual Machine in Azure
 - Install IIS in Windows with CGI on our Virtual Machine
@@ -37,30 +35,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Reload IIS again then go to sites -> Default -> osTicket
   - In IIS click “Browse *:80” on the right
   - Enabled the proper extensions for osTicket in IIS
-- Item 4
+  - Assign Permissions for osTicket
+- Setup osTicket in browser
+  - Create profile
 - Item 5
 
 
 
+![GithubSnip1](https://github.com/user-attachments/assets/73eeba0a-2d82-4ec5-b1e9-e8117efe605f)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a resourse group and virtual machine in Azure and get IP address to open Remote Desktop. 
 </p>
 <br />
 
+
+![GithubSnip3](https://github.com/user-attachments/assets/7ef93750-7ba7-4f69-b9d0-7be136c03f8d)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside the vitrual machine, search Windows for the IIS Manager and open it as an administrator. Activate Internet Information Services. Then open World Wide Web Services -> Application Development Features -> and activate CGI.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
