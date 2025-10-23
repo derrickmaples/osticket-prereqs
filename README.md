@@ -135,7 +135,7 @@ Install osTicket
 
 
 <p>
-Reload IIS again then go to sites -> Default -> osTicket
+Reload IIS again then go to sites -> Default Web Site -> osTicket
 </p>
 <br />
 
@@ -152,11 +152,20 @@ In IIS click “Browse *:80” on the right
 ![GHSnip12b](https://github.com/user-attachments/assets/0d6b53ae-a568-43d1-af39-e09f83355dec)
 
 
+<p>
+Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" for osTicket in IIS
+
+</p>
+<br /
 
 
+![GHSnip14](https://github.com/user-attachments/assets/f6ed3739-90b2-4f33-814a-c5697f89fea5)
 
 
-
+<p>
+Assign Permissions for osTicket
+</p>
+<br /
 
 
 
