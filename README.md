@@ -38,7 +38,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Assign Permissions for osTicket
 - Setup osTicket in browser
   - Create profile
-- Item 5
+  - Install HeidiSQL and create osTicket database
+  - Enter database info into the database setting and click "Install Now"
+- Success!
 
 
 
