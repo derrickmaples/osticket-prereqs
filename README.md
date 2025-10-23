@@ -62,6 +62,15 @@ Inside the vitrual machine, search Windows for the IIS Manager and open it as an
 
 
 <p>
+Install osTicket and all other dependencies on our Virtual Machine. I have them all in a file that was precollected by Josh Madakor.
+</p>
+
+
+![GithubSnip2](https://github.com/user-attachments/assets/45174afd-3be4-44cf-ab3b-9ac54dc6ab3b)
+
+
+<br />
+<p>
 Install PHP Managerf for IIS
 </p>
 <br />
@@ -153,8 +162,7 @@ In IIS click “Browse *:80” on the right
 
 
 <p>
-Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" for osTicket in IIS
-
+Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" for osTicket in IIS.
 </p>
 <br /
 
@@ -163,22 +171,55 @@ Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" for osTicket in IIS
 
 
 <p>
-Assign Permissions for osTicket
+Assign Permissions for osTicket by renaming ost-sampleconfig.php to ost-config.php in C:\inetpub\wwwroot\osTicket\include.
+Right click ost-config.php and to Properties -> Security -> Advanced -> Disable Inheritence.
+Now go to Add -> Select a principle then (for the purposes of this lab) add everyone to give permissions.
 </p>
 <br /
 
 
+![GHSnip15](https://github.com/user-attachments/assets/976d33de-8a0e-4850-b4d9-484c1424176a)
+
+![GHSnip16](https://github.com/user-attachments/assets/c0176bd0-2ae9-43c4-8d93-0a33426fe8fb)
+
+![GHSnip17](https://github.com/user-attachments/assets/8bd21572-9fb8-4097-b097-c85bf90561ef)
 
 
+<p>
+Setup osTicket in browser. Create a profile for the system. Your default email and your admin user email must be different.
+</p>
+<br /
 
 
+![GHSnip18](https://github.com/user-attachments/assets/b8c805cf-5287-4229-b90f-6fc38e3be310)
 
 
+<p>
+Install HeidiSQL and create osTicket database.
+</p>
+<br /
 
 
+![GHSnip19](https://github.com/user-attachments/assets/ff87250e-2ecc-48f9-abb4-f12eeacd5dcd)
+
+![GHSnip20](https://github.com/user-attachments/assets/b5dc568b-49c1-4443-aab1-eb1e5dc19548)
 
 
+<p>
+Enter database info into the database setting and click "Install Now".
+</p>
+<br /
 
 
+![GHSnip21](https://github.com/user-attachments/assets/af2c5524-be2d-474f-ba30-da708fe65138)
 
 
+<p>
+Success! Now you can log in as an admin. 
+</p>
+<br /
+
+
+![GHSnip22](https://github.com/user-attachments/assets/9b0fbf0e-6c34-4562-abc8-8647b427be00)
+
+![GHSnip22a](https://github.com/user-attachments/assets/a89d52a4-4dee-4afc-99c4-cefb88a2895d)
