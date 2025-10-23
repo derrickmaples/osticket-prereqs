@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Create the directory C:\PHP
   - Unzip PHP 7.3.8 into the “C:\PHP” folder
   - Install VC_redist.x86.exe
-  - install MySQL 5.5.62
+  - Install MySQL 5.5.62
   - Register PHP from within IIS then reload it
   - Install osTicket
   - Reload IIS again then go to sites -> Default -> osTicket
@@ -61,41 +61,115 @@ Inside the vitrual machine, search Windows for the IIS Manager and open it as an
 ![GithubSnip3](https://github.com/user-attachments/assets/7ef93750-7ba7-4f69-b9d0-7be136c03f8d)
 
 
-
+<p>
+Install PHP Managerf for IIS
+</p>
+<br />
 
 
 ![GithubSnip4](https://github.com/user-attachments/assets/6b06f38a-6b9d-40cd-ad70-14a7f3895a89)
 
 
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install the Rewrite Module
 </p>
 <br />
 
 
-
+![GithubSnip5](https://github.com/user-attachments/assets/0ff29075-2c57-4dea-b146-2ac89914202d)
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create the directory C:\PHP
 </p>
 <br />
 
 
+![GHSnip6](https://github.com/user-attachments/assets/879ec589-dc6e-4c35-93e0-cf3b9453130f)
 
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Unzip PHP 7.3.8 into the “C:\PHP” folder
 </p>
 <br />
 
-
-
+![GHSnip7](https://github.com/user-attachments/assets/8be1fcb5-8126-4f6c-86b3-0d66601f420b)
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install VC_redist.x86.exe
 </p>
 <br />
+
+![GHSnip8](https://github.com/user-attachments/assets/1f7c5d78-30d1-46e5-94ec-a9d2d76e37c9)
+
+
+<p>
+Install MySQL 5.5.62
+</p>
+<br />
+
+
+![GHSnip9](https://github.com/user-attachments/assets/bc408ca8-cf5b-478a-8c3f-868846353c29)
+
+
+<p>
+Register PHP from within IIS then reload it
+</p>
+<br />
+
+
+![GHSnip10](https://github.com/user-attachments/assets/ddc2cb48-1249-4975-b32a-cd7da9d5a3b0)
+![GHSnip11a](https://github.com/user-attachments/assets/f9b6b927-f658-476c-b53f-da1b19f8fc7f)
+![GHSnip11b](https://github.com/user-attachments/assets/8941c1bc-a5ce-4f2d-90ab-eb46c134e2c6)
+
+
+<p>
+Install osTicket
+</p>
+<br />
+
+
+![GHSnip12](https://github.com/user-attachments/assets/a7dc5693-33e4-4326-87d7-c8d8532b560c)
+
+
+<p>
+Reload IIS again then go to sites -> Default -> osTicket
+</p>
+<br />
+
+
+![GHSnip12a](https://github.com/user-attachments/assets/1fd5843f-ee65-403e-b33f-604c13c314cd)
+
+
+<p>
+In IIS click “Browse *:80” on the right
+</p>
+<br /
+
+
+![GHSnip12b](https://github.com/user-attachments/assets/0d6b53ae-a568-43d1-af39-e09f83355dec)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
