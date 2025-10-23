@@ -42,17 +42,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Enter database info into the database setting and click "Install Now"
 - Success!
 
-
-
-![GithubSnip1](https://github.com/user-attachments/assets/73eeba0a-2d82-4ec5-b1e9-e8117efe605f)
-
+____________________________________________________________________________________________________________________________
 <p>
 Create a resourse group and virtual machine in Azure and get IP address to open Remote Desktop. 
 </p>
 <br />
 
 
-![GithubSnip3](https://github.com/user-attachments/assets/7ef93750-7ba7-4f69-b9d0-7be136c03f8d)
+![GithubSnip1](https://github.com/user-attachments/assets/73eeba0a-2d82-4ec5-b1e9-e8117efe605f)
 
 
 <p>
@@ -61,6 +58,13 @@ Inside the vitrual machine, search Windows for the IIS Manager and open it as an
 <br />
 
 
+![GithubSnip3](https://github.com/user-attachments/assets/7ef93750-7ba7-4f69-b9d0-7be136c03f8d)
+
+
+
+
+
+![GithubSnip4](https://github.com/user-attachments/assets/6b06f38a-6b9d-40cd-ad70-14a7f3895a89)
 
 
 
