@@ -62,7 +62,7 @@ Inside the vitrual machine, search Windows for the IIS Manager and open it as an
 
 
 <p>
-Install osTicket and all other dependencies on our Virtual Machine. I have them all in a file that was precollected by Josh Madakor.
+Install osTicket and all other dependencies on our Virtual Machine. I have them all in a file. They were all precollected for the purposes of this lab.
 </p>
 
 
