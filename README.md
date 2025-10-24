@@ -173,7 +173,7 @@ Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" for osTicket in IIS
 <p>
 Assign Permissions for osTicket by renaming ost-sampleconfig.php to ost-config.php in C:\inetpub\wwwroot\osTicket\include.
 Right click ost-config.php and to Properties -> Security -> Advanced -> Disable Inheritence.
-Now go to Add -> Select a principle then (for the purposes of this lab) add everyone to give permissions.
+Now go to Add -> Select a principle then (for the purposes of this project) add everyone to give permissions.
 </p>
 <br /
 
