@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Virtual Machine
 - osTicket and all other dependencies
 
-<h3>Installation Steps</h3>
+<h3>Installation Objectives</h3>
 
 - Create Resource Group and Virtual Machine in Azure
 - Install IIS in Windows with CGI on our Virtual Machine
@@ -42,6 +42,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Enter database info into the database setting and click "Install Now"
 - Success!
 
+
+<h3>Installation Steps</h3>
 ____________________________________________________________________________________________________________________________
 <p>
 Create a resourse group and virtual machine in Azure and get IP address to open Remote Desktop. 
